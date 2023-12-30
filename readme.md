@@ -9,7 +9,7 @@ Kazokku App adalah aplikasi sederhana untuk registrasi pengguna dengan data kart
 2. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/namareq/kazokku-app.git
+    gh repo clone ilhamfw/kazokku-test
     cd kazokku-app
     ```
 
